@@ -2,3 +2,6 @@ FlanT5_with_drive --
 ! pip install -q langchain llama-index transformers sentence_transformers
 ! pip install --upgrade llama-index==0.6.0.alpha3
 ! pip install docx2txt
+pip install tiktoken openai pinecone-client -q
+pip install bs4 
+pip install ipython
