@@ -28,8 +28,8 @@ huggingface-hub==0.15.1
 idna==3.4
 ipython==7.33.0
 jedi==0.18.2
-Jinja2==3.1.2
-joblib==0.0.27
+
+
 langchain==0.0.142
 langchainplus-sdk==0.0.10
 llama-index==0.6.0a3
