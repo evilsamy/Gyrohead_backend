@@ -27,7 +27,7 @@ h11==0.14.0
 huggingface-hub==0.15.1
 idna==3.4
 ipython==7.33.0
-jedi==0.18.2
+# jedi==0.18.2
 
 
 langchain==0.0.142
